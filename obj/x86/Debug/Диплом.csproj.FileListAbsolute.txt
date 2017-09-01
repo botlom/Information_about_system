@@ -1,0 +1,139 @@
+c:\users\94\documents\visual studio 2010\Projects\Диплом\bin\Debug\Диплом.exe
+c:\users\94\documents\visual studio 2010\Projects\Диплом\bin\Debug\Диплом.pdb
+c:\users\94\documents\visual studio 2010\Projects\Диплом\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\94\documents\visual studio 2010\Projects\Диплом\obj\x86\Debug\Диплом.Properties.Resources.resources
+c:\users\94\documents\visual studio 2010\Projects\Диплом\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\94\documents\visual studio 2010\Projects\Диплом\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\94\documents\visual studio 2010\Projects\Диплом\obj\x86\Debug\Диплом.exe
+c:\users\94\documents\visual studio 2010\Projects\Диплом\obj\x86\Debug\Диплом.pdb
+C:\Users\94\documents\visual studio 2010\Projects\Диплом\obj\x86\Debug\Сведения_о_системе.Form1.resources
+C:\Users\94\documents\visual studio 2010\Projects\Диплом\bin\Debug\Диплом.exe.config
+F:\Курсач Кастрома\Диплом\bin\Debug\Диплом.exe.config
+F:\Курсач Кастрома\Диплом\obj\x86\Debug\Диплом.exe
+F:\Курсач Кастрома\Диплом\obj\x86\Debug\Диплом.pdb
+F:\Курсач Кастрома\Диплом\bin\Debug\Диплом.exe
+F:\Курсач Кастрома\Диплом\bin\Debug\Диплом.pdb
+F:\Курсач Кастрома\Диплом\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Курсач Кастрома\Диплом\obj\x86\Debug\Сведения_о_системе.Form1.resources
+F:\Курсач Кастрома\Диплом\obj\x86\Debug\Диплом.Properties.Resources.resources
+F:\Курсач Кастрома\Диплом\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Курсач Кастрома\Диплом\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Курсач Кастрома\Диплом\bin\Debug\Диплом.exe.config
+E:\Курсач Кастрома\Диплом\obj\x86\Debug\Диплом.exe
+E:\Курсач Кастрома\Диплом\obj\x86\Debug\Диплом.pdb
+E:\Курсач Кастрома\Диплом\bin\Debug\Диплом.exe
+E:\Курсач Кастрома\Диплом\bin\Debug\Диплом.pdb
+E:\Курсач Кастрома\Диплом\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Курсач Кастрома\Диплом\obj\x86\Debug\Сведения_о_системе.Form1.resources
+E:\Курсач Кастрома\Диплом\obj\x86\Debug\Диплом.Properties.Resources.resources
+E:\Курсач Кастрома\Диплом\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Курсач Кастрома\Диплом\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\94\Documents\Visual Studio 2010\Projects\Диплом\obj\x86\Debug\Диплом.csproj.ResolveComReference.cache
+C:\Users\94\Documents\Visual Studio 2010\Projects\Диплом\bin\Debug\NAudio.dll
+C:\Users\94\Documents\Visual Studio 2010\Projects\Диплом\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\94\Documents\Visual Studio 2010\Projects\Диплом\obj\x86\Debug\Диплом.AboutBox1.resources
+E:\Курсач Кастрома\Диплом\obj\x86\Debug\Диплом.csproj.ResolveComReference.cache
+E:\Курсач Кастрома\Диплом\bin\Debug\NAudio.dll
+E:\Курсач Кастрома\Диплом\bin\Debug\NAudio.WindowsMediaFormat.dll
+E:\Курсач Кастрома\Диплом\obj\x86\Debug\Диплом.AboutBox1.resources
+L:\Курсач Кастрома\Диплом\bin\Debug\Диплом.exe.config
+L:\Курсач Кастрома\Диплом\obj\x86\Debug\Диплом.csproj.ResolveComReference.cache
+L:\Курсач Кастрома\Диплом\obj\x86\Debug\Диплом.exe
+L:\Курсач Кастрома\Диплом\obj\x86\Debug\Диплом.pdb
+L:\Курсач Кастрома\Диплом\bin\Debug\Диплом.exe
+L:\Курсач Кастрома\Диплом\bin\Debug\Диплом.pdb
+L:\Курсач Кастрома\Диплом\bin\Debug\NAudio.dll
+L:\Курсач Кастрома\Диплом\bin\Debug\NAudio.WindowsMediaFormat.dll
+L:\Курсач Кастрома\Диплом\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Курсач Кастрома\Диплом\obj\x86\Debug\Диплом.AboutBox1.resources
+L:\Курсач Кастрома\Диплом\obj\x86\Debug\Сведения_о_системе.Form1.resources
+L:\Курсач Кастрома\Диплом\obj\x86\Debug\Диплом.Properties.Resources.resources
+L:\Курсач Кастрома\Диплом\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\Курсач Кастрома\Диплом\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\Курсач Кастрома\Программа\bin\Debug\Диплом.exe.config
+L:\Курсач Кастрома\Программа\obj\x86\Debug\Диплом.csproj.ResolveComReference.cache
+L:\Курсач Кастрома\Программа\obj\x86\Debug\Диплом.exe
+L:\Курсач Кастрома\Программа\obj\x86\Debug\Диплом.pdb
+L:\Курсач Кастрома\Программа\bin\Debug\Диплом.exe
+L:\Курсач Кастрома\Программа\bin\Debug\Диплом.pdb
+L:\Курсач Кастрома\Программа\bin\Debug\NAudio.dll
+L:\Курсач Кастрома\Программа\bin\Debug\NAudio.WindowsMediaFormat.dll
+L:\Курсач Кастрома\Программа\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Курсач Кастрома\Программа\obj\x86\Debug\Диплом.AboutBox1.resources
+L:\Курсач Кастрома\Программа\obj\x86\Debug\Сведения_о_системе.Form1.resources
+L:\Курсач Кастрома\Программа\obj\x86\Debug\Диплом.Properties.Resources.resources
+L:\Курсач Кастрома\Программа\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\Курсач Кастрома\Программа\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\Курсач Кастрома\Программа\obj\x86\Debug\Диплом.Form2.resources
+L:\Курсач Кастрома\Программа\obj\x86\Debug\Диплом.Form3.resources
+F:\Курсач Кастрома\Программа\bin\Debug\Диплом.exe.config
+F:\Курсач Кастрома\Программа\obj\x86\Debug\Диплом.csproj.ResolveComReference.cache
+F:\Курсач Кастрома\Программа\obj\x86\Debug\Диплом.exe
+F:\Курсач Кастрома\Программа\obj\x86\Debug\Диплом.pdb
+F:\Курсач Кастрома\Программа\bin\Debug\Диплом.exe
+F:\Курсач Кастрома\Программа\bin\Debug\Диплом.pdb
+F:\Курсач Кастрома\Программа\bin\Debug\NAudio.dll
+F:\Курсач Кастрома\Программа\bin\Debug\NAudio.WindowsMediaFormat.dll
+F:\Курсач Кастрома\Программа\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Курсач Кастрома\Программа\obj\x86\Debug\Диплом.AboutBox1.resources
+F:\Курсач Кастрома\Программа\obj\x86\Debug\Сведения_о_системе.Form1.resources
+F:\Курсач Кастрома\Программа\obj\x86\Debug\Диплом.Form2.resources
+F:\Курсач Кастрома\Программа\obj\x86\Debug\Диплом.Form3.resources
+F:\Курсач Кастрома\Программа\obj\x86\Debug\Диплом.Properties.Resources.resources
+F:\Курсач Кастрома\Программа\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Курсач Кастрома\Программа\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\Курсач Кастрома\ДИПЛОМ\Программа\bin\Debug\Диплом.exe.config
+L:\Курсач Кастрома\ДИПЛОМ\Программа\obj\x86\Debug\Диплом.csproj.ResolveComReference.cache
+L:\Курсач Кастрома\ДИПЛОМ\Программа\obj\x86\Debug\Диплом.exe
+L:\Курсач Кастрома\ДИПЛОМ\Программа\obj\x86\Debug\Диплом.pdb
+L:\Курсач Кастрома\ДИПЛОМ\Программа\bin\Debug\Диплом.exe
+L:\Курсач Кастрома\ДИПЛОМ\Программа\bin\Debug\Диплом.pdb
+L:\Курсач Кастрома\ДИПЛОМ\Программа\bin\Debug\NAudio.dll
+L:\Курсач Кастрома\ДИПЛОМ\Программа\bin\Debug\NAudio.WindowsMediaFormat.dll
+L:\Курсач Кастрома\ДИПЛОМ\Программа\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Курсач Кастрома\ДИПЛОМ\Программа\obj\x86\Debug\Диплом.AboutBox1.resources
+L:\Курсач Кастрома\ДИПЛОМ\Программа\obj\x86\Debug\Сведения_о_системе.Form1.resources
+L:\Курсач Кастрома\ДИПЛОМ\Программа\obj\x86\Debug\Диплом.Form2.resources
+L:\Курсач Кастрома\ДИПЛОМ\Программа\obj\x86\Debug\Диплом.Form3.resources
+L:\Курсач Кастрома\ДИПЛОМ\Программа\obj\x86\Debug\Диплом.Properties.Resources.resources
+L:\Курсач Кастрома\ДИПЛОМ\Программа\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\Курсач Кастрома\ДИПЛОМ\Программа\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\Курсач Кастрома\ДИПЛОМ\Программа\obj\x86\Debug\Диплом.Zapolnenie.resources
+C:\Users\Hare\Desktop\ДИПЛОМ_Зайцев_Денис\ДИПЛОМ в сборе\Программа\bin\Debug\Диплом.exe.config
+C:\Users\Hare\Desktop\ДИПЛОМ_Зайцев_Денис\ДИПЛОМ в сборе\Программа\obj\x86\Debug\Диплом.csproj.ResolveComReference.cache
+C:\Users\Hare\Desktop\ДИПЛОМ_Зайцев_Денис\ДИПЛОМ в сборе\Программа\obj\x86\Debug\Диплом.exe
+C:\Users\Hare\Desktop\ДИПЛОМ_Зайцев_Денис\ДИПЛОМ в сборе\Программа\obj\x86\Debug\Диплом.pdb
+C:\Users\Hare\Desktop\ДИПЛОМ_Зайцев_Денис\ДИПЛОМ в сборе\Программа\bin\Debug\Диплом.exe
+C:\Users\Hare\Desktop\ДИПЛОМ_Зайцев_Денис\ДИПЛОМ в сборе\Программа\bin\Debug\Диплом.pdb
+C:\Users\Hare\Desktop\ДИПЛОМ_Зайцев_Денис\ДИПЛОМ в сборе\Программа\bin\Debug\NAudio.dll
+C:\Users\Hare\Desktop\ДИПЛОМ_Зайцев_Денис\ДИПЛОМ в сборе\Программа\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\Hare\Desktop\ДИПЛОМ_Зайцев_Денис\ДИПЛОМ в сборе\Программа\obj\x86\Debug\Диплом.csprojResolveAssemblyReference.cache
+C:\Users\Hare\Desktop\ДИПЛОМ_Зайцев_Денис\ДИПЛОМ в сборе\Программа\obj\x86\Debug\Диплом.AboutBox1.resources
+C:\Users\Hare\Desktop\ДИПЛОМ_Зайцев_Денис\ДИПЛОМ в сборе\Программа\obj\x86\Debug\Сведения_о_системе.Form1.resources
+C:\Users\Hare\Desktop\ДИПЛОМ_Зайцев_Денис\ДИПЛОМ в сборе\Программа\obj\x86\Debug\Диплом.Form2.resources
+C:\Users\Hare\Desktop\ДИПЛОМ_Зайцев_Денис\ДИПЛОМ в сборе\Программа\obj\x86\Debug\Диплом.Form3.resources
+C:\Users\Hare\Desktop\ДИПЛОМ_Зайцев_Денис\ДИПЛОМ в сборе\Программа\obj\x86\Debug\Диплом.Properties.Resources.resources
+C:\Users\Hare\Desktop\ДИПЛОМ_Зайцев_Денис\ДИПЛОМ в сборе\Программа\obj\x86\Debug\Диплом.Zapolnenie.resources
+C:\Users\Hare\Desktop\ДИПЛОМ_Зайцев_Денис\ДИПЛОМ в сборе\Программа\obj\x86\Debug\Диплом.csproj.GenerateResource.Cache
+C:\Users\Hare\Desktop\ДИПЛОМ_Зайцев_Денис\ДИПЛОМ в сборе\Программа\obj\x86\Debug\Диплом.Form4.resources
+C:\Users\Hare\Desktop\ДИПЛОМ_Зайцев_Денис\ДИПЛОМ в сборе\Программа\obj\x86\Debug\Диплом.New_kient.resources
+C:\Users\Hare\Desktop\ДИПЛОМ_Зайцев_Денис\ДИПЛОМ в сборе\Программа\obj\x86\Debug\Диплом.new_sotr.resources
+C:\Users\Hare\Desktop\Вакансии\Программа\bin\Debug\Диплом.exe.config
+C:\Users\Hare\Desktop\Вакансии\Программа\obj\x86\Debug\Диплом.csproj.ResolveComReference.cache
+C:\Users\Hare\Desktop\Вакансии\Программа\obj\x86\Debug\Диплом.exe
+C:\Users\Hare\Desktop\Вакансии\Программа\obj\x86\Debug\Диплом.pdb
+C:\Users\Hare\Desktop\Вакансии\Программа\bin\Debug\Диплом.exe
+C:\Users\Hare\Desktop\Вакансии\Программа\bin\Debug\Диплом.pdb
+C:\Users\Hare\Desktop\Вакансии\Программа\bin\Debug\NAudio.dll
+C:\Users\Hare\Desktop\Вакансии\Программа\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\Hare\Desktop\Вакансии\Программа\obj\x86\Debug\Диплом.csprojResolveAssemblyReference.cache
+C:\Users\Hare\Desktop\Вакансии\Программа\obj\x86\Debug\Диплом.AboutBox1.resources
+C:\Users\Hare\Desktop\Вакансии\Программа\obj\x86\Debug\Сведения_о_системе.Form1.resources
+C:\Users\Hare\Desktop\Вакансии\Программа\obj\x86\Debug\Диплом.Form2.resources
+C:\Users\Hare\Desktop\Вакансии\Программа\obj\x86\Debug\Диплом.Form3.resources
+C:\Users\Hare\Desktop\Вакансии\Программа\obj\x86\Debug\Диплом.Form4.resources
+C:\Users\Hare\Desktop\Вакансии\Программа\obj\x86\Debug\Диплом.New_kient.resources
+C:\Users\Hare\Desktop\Вакансии\Программа\obj\x86\Debug\Диплом.new_sotr.resources
+C:\Users\Hare\Desktop\Вакансии\Программа\obj\x86\Debug\Диплом.Properties.Resources.resources
+C:\Users\Hare\Desktop\Вакансии\Программа\obj\x86\Debug\Диплом.Zapolnenie.resources
+C:\Users\Hare\Desktop\Вакансии\Программа\obj\x86\Debug\Диплом.csproj.GenerateResource.Cache
